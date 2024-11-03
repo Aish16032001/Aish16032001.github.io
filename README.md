@@ -5,5 +5,6 @@
 
 ![My structure](11.png)
 ![](https://sl.bing.net/fQChpAzLdRI)
-1.Snake
-1.Snail
+
+1. Snake
+1. Snail
