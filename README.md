@@ -1,5 +1,5 @@
 # Aish16032001.github.io
-![](profl.jpeg)
+
 ## Subttitle
 *Hello github
 
