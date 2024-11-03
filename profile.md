@@ -18,6 +18,7 @@ resulting in the enhanced optoelectronic properties of LPKs
 I am honest, hardworking, straightforward in communication, and ready to make a profit for my 
 prospective organization. I believe in commitment to continuous learning and professional 
 development in the topic of interest.
+ <div dir="ltr">
 Core Skills
 • Symmetry and group theory
 • Self-assembly
