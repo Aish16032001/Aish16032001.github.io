@@ -6,7 +6,8 @@
  Institute -([](https://www.weizmann.ac.il))
     <div dir="rtl"> 
  Course -[](https://szabgab.com) 
-      <div dir="rtl"> 
+
+      
 Full-time PhD student interested in theoretical and computational research focused on perovskite 
 defects. I work with V.A.S.P. (computational software) to analyze and tune the electronic structure of
 halide perovskites (HaP) according to our research of interest. The goal is to make efficient and stable 
