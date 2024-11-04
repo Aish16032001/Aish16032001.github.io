@@ -5,6 +5,9 @@ theme: jekyll-theme-minimal
 
 # Researcher
 
+### Education
+Chemistry, Pursuing PhD
+
 Hello! I am PhD student interested in theoretical and computational research focused on perovskite defects. I work with V.A.S.P. to analyze and tune the electronic structure of halide perovskites  
 
 ### Core skills
