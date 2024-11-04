@@ -5,17 +5,12 @@ I am honest, hardworking, straightforward in communication, and ready to make a 
 
 ### Core skills
 
-* Symmetry and group theory
-* Self-assembly
-* Numerical computation (M.A.T.L.A.B.)
-* Density Functional Theory
-* Spectroscopy                                             • V.A.S.P. (Vienna Ab initio Simulation 
-Package)
-• Electrochemistry
-• Solid State Physics
-• Photochemistry and Photophysics
-• Advance material science
-• Polymer chemistry
+* Symmetry and group theory                                  * Electrochemistry
+* Self-assembly                                              * Solid State Physics
+* Numerical computation (M.A.T.L.A.B.)                       * Photochemistry and Photophysics
+* Density Functional Theory                                  * Advance material science
+* Spectroscopy                                               * V.A.S.P. (Vienna Ab initio Simulation Package)
+* Polymer chemistry
 
 ### Education
 Chemistry, PhD
@@ -28,14 +23,23 @@ Chemistry, PhD
 
 ### Master’s Project
 
-* Pursued MS-Thesis on photocathodic materials for P.E.C. water splitting. It is an efficient approach since hydrogen and oxygen gases. There is a vast amount of work already done in the 
-  photoanodic system, but there is much to do for the photocathodic materials, which is worth exploring. I worked on chalcogenide materials as photocathodes because they are earth- 
+* Pursued MS-Thesis on photocathodic materials for P.E.C. water splitting. It is an efficient approach since hydrogen and oxygen gases. There is a vast amount of work already done in 
+  the photoanodic system, but there is much to do for the photocathodic materials, which is worth exploring. I worked on chalcogenide materials as photocathodes because they are earth- 
   abundant, cost-effective, and have good absorption power.
   
 ### Ph.D. Project
 
 * Fossil fuels dominate energy consumption worldwide, resulting in many energy and environmental problems. In recent years, halide perovskites (HaP) have gained enormous attention in 
-  photovoltaic research due to their direct band gap, high absorption coefficient, and long lifetime of photogenerated carriers. Defects in perovskites are responsible for most problems 
-  and must be investigated thoroughly. Understanding the defect behavior experimentally is challenging as HaP forms soft-lattice crystals, resulting in the dynamical lattice, ease of 
-  lattice compression/expansion, and defect diffusion. A theoretical investigation using the first principal calculation plays a vital role in understanding defect properties at the 
-  atomic level, and this is our part of the research.
+  photovoltaic research due to their direct band gap, high absorption coefficient, and long lifetime of photogenerated carriers. Defects in perovskites are responsible for most 
+  problems and must be investigated thoroughly. Understanding the defect behavior experimentally is challenging as HaP forms soft-lattice crystals, resulting in the dynamical lattice, 
+  ease of lattice compression/expansion, and defect diffusion. A theoretical investigation using the first principal calculation plays a vital role in understanding defect properties 
+  at the atomic level, and this is our part of the research.
+
+### Additional information
+
+ * Secured first place in state-level science quiz at the school level
+ * Participated in the National Science Olympiad
+ * Curious to explore scientific problems and the approaches possible for the same
+ * Participated in the Hybrid Integrated Systems for Conversion of Solar Energy (HI-SCORE) conference.
+
+  
