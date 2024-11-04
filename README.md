@@ -49,6 +49,6 @@ Hello! I am PhD student interested in theoretical and computational research foc
 
 ### Publications
 
-* [](https://www.sciencedirect.com/science/article/pii/S2590123023006400) 
+* [Pubication 1](https://www.sciencedirect.com/science/article/pii/S2590123023006400) 
 
   
