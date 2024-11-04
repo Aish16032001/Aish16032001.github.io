@@ -5,12 +5,13 @@ I am honest, hardworking, straightforward in communication, and ready to make a 
 
 ### Core skills
 
-* Symmetry and group theory                                  * Electrochemistry:
-* Self-assembly                                              * Solid State Physics
-* Numerical computation (M.A.T.L.A.B.)                       * Photochemistry and Photophysics
-* Density Functional Theory                                  * Advance material science
-* Spectroscopy                                               * V.A.S.P. (Vienna Ab initio Simulation Package)
-* Polymer chemistry
+* Solid State Physics
+* Numerical computation (M.A.T.L.A.B.)                       
+* Density Functional Theory                                  
+* Spectroscopy                                              
+* V.A.S.P. (Vienna Ab initio Simulation Package)
+* Photochemistry and Photophysics
+* Advance material science
 
 ### Education
 Chemistry, PhD
