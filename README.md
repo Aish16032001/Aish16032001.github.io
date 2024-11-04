@@ -2,7 +2,7 @@
 
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; text-align: center;">
 
-<img src="./2.PNG" alt="Atmosphere Background" style="width: 100%; display: block;">
+<img src="./2.PNG" alt="Atmosphere Background" style="width: 80%; display: rectangular;">
 
   
   <img src="./profnl.jpeg" alt="Aishwarya Singh" width="150" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 3px solid white;">
