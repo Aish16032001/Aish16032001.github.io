@@ -2,7 +2,7 @@
 <div style="position: relative; width: 100%; max-width: 600px; margin: auto; text-align: center;">
 
   
-  <img src="./profnl.jpeg" alt="Aishwarya Singh" width="150" style="position: absolute; top: 30px; left: 60%; transform: translateX(-40%); border-radius: 40%; border: 2px solid white;">
+  <img src="./profnl.jpeg" alt="Aishwarya Singh" width="200" style="position: absolute; top: 30px; left: 60%; transform: translateX(-40%); border-radius: 40%; border: 2px solid white;">
 
 
 
