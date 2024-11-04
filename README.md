@@ -5,8 +5,7 @@ theme: jekyll-theme-minimal
 
 # Researcher
 
-Full-time PhD student interested in theoretical and computational research focused on perovskite defects. I work with V.A.S.P. (computational software) to analyze and tune the electronic structure of halide perovskites (HaP) according to our research of interest. The goal is to make efficient and stable HaP to serve commercial applications. On the other hand, equivalent efforts are made to understand the facilitating mechanism of charge transport possible due to the halogen bonding in the Layered perovskites (L.P.K.s). It will help overcome the charge transportation problem across the interlayers, resulting in the enhanced optoelectronic properties of LPKs.
-I am honest, hardworking, straightforward in communication, and ready to make a profit for my prospective organization. I believe in commitment to continuous learning and professional development in the topic of interest.
+Hello! I am PhD student interested in theoretical and computational research focused on perovskite defects. I work with V.A.S.P. to analyze and tune the electronic structure of halide perovskites  
 
 ### Core skills
 
@@ -29,9 +28,7 @@ Chemistry, PhD
 
 ### Master’s Project
 
-* Pursued MS-Thesis on photocathodic materials for P.E.C. water splitting. It is an efficient approach since hydrogen and oxygen gases. There is a vast amount of work already done in 
-  the photoanodic system, but there is much to do for the photocathodic materials, which is worth exploring. I worked on chalcogenide materials as photocathodes because they are earth- 
-  abundant, cost-effective, and have good absorption power.
+* Photocathodic materials for photoelectrochemical water splitting.My work focussed on chalcogenide materials as these materials are earth-abundant, cost-effective, and have good absorption power.
   
 ### Ph.D. Project
 
