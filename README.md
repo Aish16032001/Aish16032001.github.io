@@ -1,3 +1,9 @@
+title: Aishwarya Singh
+logo: /assets/profnl.jpeg
+description: text below image
+#show_downloads: true
+theme: jekyll-theme-minimal
+
 # Researcher
 
 Full-time PhD student interested in theoretical and computational research focused on perovskite defects. I work with V.A.S.P. (computational software) to analyze and tune the electronic structure of halide perovskites (HaP) according to our research of interest. The goal is to make efficient and stable HaP to serve commercial applications. On the other hand, equivalent efforts are made to understand the facilitating mechanism of charge transport possible due to the halogen bonding in the Layered perovskites (L.P.K.s). It will help overcome the charge transportation problem across the interlayers, resulting in the enhanced optoelectronic properties of LPKs.
