@@ -1,6 +1,21 @@
 # Research student
 
+Full-time PhD student interested in theoretical and computational research focused on perovskite defects. I work with V.A.S.P. (computational software) to analyze and tune the electronic structure of halide perovskites (HaP) according to our research of interest. The goal is to make efficient and stable HaP to serve commercial applications. On the other hand, equivalent efforts are made to understand the facilitating mechanism of charge transport possible due to the halogen bonding in the Layered perovskites (L.P.K.s). It will help overcome the charge transportation problem across the interlayers, resulting in the enhanced optoelectronic properties of LPKs.
+I am honest, hardworking, straightforward in communication, and ready to make a profit for my prospective organization. I believe in commitment to continuous learning and professional development in the topic of interest.
 
+### Core skills
+
+* Symmetry and group theory
+* Self-assembly
+* Numerical computation (M.A.T.L.A.B.)
+* Density Functional Theory
+* Spectroscopy                                             • V.A.S.P. (Vienna Ab initio Simulation 
+Package)
+• Electrochemistry
+• Solid State Physics
+• Photochemistry and Photophysics
+• Advance material science
+• Polymer chemistry
 
 ### Education
 Chemistry, PhD
