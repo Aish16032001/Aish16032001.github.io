@@ -1,12 +1,16 @@
-title: Aishwarya Singh
-logo: ![]profnl.jpeg
-description: text below image
-theme: jekyll-theme-minimal
+# Aishwarya Singh
+
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; text-align: center;">
+  <img src="./back.jpeg" alt="Atmosphere Background" style="width: 100%; display: block;">
+  <img src="./profnl.jpeg" alt="Aishwarya Singh" width="150" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 3px solid white;">
+</div>
+
+**Healthcare business expert turned biology researcher, now blending science with strategy**
+
+[LinkedIn](https://www.linkedin.com/in/guy-haim) | [GitHub](https://github.com/HaimGuy)
+
 
 # Researcher
-
-### Education
-Chemistry, Pursuing PhD
 
 Hello! I am PhD student interested in theoretical and computational research focused on perovskite defects. I work with V.A.S.P. to analyze and tune the electronic structure of halide perovskites  
 
