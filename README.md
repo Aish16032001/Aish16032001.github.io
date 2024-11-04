@@ -7,7 +7,8 @@
 
 **Email - aishwarya.singh@weizmann.ac.il**
 
-[Institute](https://www.weizmann.ac.il/) | [Course]( https://szabgab.com/)
+[Institute](https://www.weizmann.ac.il/)  
+[Course]( https://szabgab.com/)
 
 
 # Researcher
