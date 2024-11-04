@@ -12,11 +12,11 @@ Chemistry, PhD
 *  Application of Density Functional Theory (DFT) in solid-state chemistry using Quantum Espresso
 
 ### Master’s Project
-* Pursued MS-Thesis on photocathodic materials for P.E.C. water splitting. P.E.C. water splitting is an efficient approach since hydrogen and oxygen gases can be quantified easily and can 
-  help solve the significant problems that the world is facing today, which are the energy crisis and environmental pollution. There is a vast amount of work already done in the 
+
+* Pursued MS-Thesis on photocathodic materials for P.E.C. water splitting. It is an efficient approach since hydrogen and oxygen gases. There is a vast amount of work already done in the 
   photoanodic system, but there is much to do for the photocathodic materials, which is worth exploring. I worked on chalcogenide materials as photocathodes because they are earth- 
   abundant, cost-effective, and have good absorption power.
-
+  
 ### Ph.D. Project
 
 * Fossil fuels dominate energy consumption worldwide, resulting in many energy and environmental problems. In recent years, halide perovskites (HaP) have gained enormous attention in 
