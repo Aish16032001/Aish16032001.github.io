@@ -23,9 +23,6 @@ Hello! I am PhD student interested in theoretical and computational research foc
 * Photochemistry and Photophysics
 * Advance material science
 
-### Education
-Chemistry, PhD
-
 ### Work Experience
 
 *  computational studies of sulfur-centered unconventional hydrogen bonding
