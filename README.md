@@ -1,4 +1,3 @@
-# Aishwarya Singh
 
 <div style="position: relative; width: 100%; max-width: 600px; margin: auto; text-align: center;">
 
