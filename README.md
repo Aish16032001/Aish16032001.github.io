@@ -5,7 +5,7 @@ I am honest, hardworking, straightforward in communication, and ready to make a 
 
 ### Core skills
 
-* Symmetry and group theory                                  * Electrochemistry
+* Symmetry and group theory                                  * Electrochemistry:
 * Self-assembly                                              * Solid State Physics
 * Numerical computation (M.A.T.L.A.B.)                       * Photochemistry and Photophysics
 * Density Functional Theory                                  * Advance material science
