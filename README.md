@@ -1,13 +1,13 @@
 # Aishwarya Singh
 
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; text-align: center;">
-  <img src="./back.jpeg" alt="Atmosphere Background" style="width: 100%; display: block;">
+  <img src="./perov.jpeg" alt="Atmosphere Background" style="width: 100%; display: block;">
   <img src="./profnl.jpeg" alt="Aishwarya Singh" width="150" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 3px solid white;">
 </div>
 
-**Healthcare business expert turned biology researcher, now blending science with strategy**
+**Email - aishwarya.singh@weizmann.ac.il**
 
-[LinkedIn](https://www.linkedin.com/in/guy-haim) | [GitHub](https://github.com/HaimGuy)
+[Institute](https://www.weizmann.ac.il/) | [Course]( https://szabgab.com/)
 
 
 # Researcher
