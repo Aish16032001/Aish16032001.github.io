@@ -1,7 +1,6 @@
 title: Aishwarya Singh
-logo: /assets/profnl.jpeg
+logo: ![]profnl.jpeg
 description: text below image
-#show_downloads: true
 theme: jekyll-theme-minimal
 
 # Researcher
