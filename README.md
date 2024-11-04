@@ -47,11 +47,8 @@ Hello! I am PhD student interested in theoretical and computational research foc
   ease of lattice compression/expansion, and defect diffusion. A theoretical investigation using the first principal calculation plays a vital role in understanding defect properties 
   at the atomic level, and this is our part of the research.
 
-### Additional information
+### Publications
 
- * Secured first place in state-level science quiz at the school level
- * Participated in the National Science Olympiad
- * Curious to explore scientific problems and the approaches possible for the same
- * Participated in the Hybrid Integrated Systems for Conversion of Solar Energy (HI-SCORE) conference.
+* [](https://www.sciencedirect.com/science/article/pii/S2590123023006400) 
 
   
