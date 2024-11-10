@@ -49,6 +49,6 @@ Hello! I am PhD student interested in theoretical and computational research foc
 
 ### Publications
 
-* [Pubication 1](https://www.sciencedirect.com/science/article/pii/S2590123023006400) 
+* [Decoration of spherical Sb2S3 over CuO nanoflakes for efficient photoelectrochemical hydrogen generation](https://www.sciencedirect.com/science/article/pii/S2590123023006400) 
 
   
