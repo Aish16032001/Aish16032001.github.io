@@ -10,7 +10,7 @@
 
 </div>
 
-**Email - aishwarya.singh@weizmann.ac.il**
+
 
 [Institute](https://www.weizmann.ac.il/) | [Course]( https://szabgab.com/)
 
@@ -46,6 +46,10 @@ Hello! I am PhD student interested in theoretical and computational research foc
   problems and must be investigated thoroughly. Understanding the defect behavior experimentally is challenging as HaP forms soft-lattice crystals, resulting in the dynamical lattice, 
   ease of lattice compression/expansion, and defect diffusion. A theoretical investigation using the first principal calculation plays a vital role in understanding defect properties 
   at the atomic level, and this is our part of the research.
+
+### Contact info
+
+   **Email - aishwarya.singh@weizmann.ac.il**
 
 ### Publications
 
