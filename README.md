@@ -17,7 +17,8 @@
 
 # Researcher
 
-Hello! I am Aishwarya Singh, PhD student in theoretical and computational research focused on perovskite defects. I work with [Prof. Leeor Kronik] (https://www.weizmann.ac.il/materials/Leeor/home) I have experience with V.A.S.P. software used to analyze and tune the electronic structure of halide perovskites. I love traveling and playing Badminton.  
+Hello! I am Aishwarya Singh, PhD student in theoretical and computational research focused on perovskite defects. I work with 
+[Prof. Leeor Kronik](https://www.weizmann.ac.il/materials/Leeor/home) I have experience with V.A.S.P. software used to analyze and tune the electronic structure of halide perovskites. I love traveling and playing Badminton.  
 
 ### Core skills
 
